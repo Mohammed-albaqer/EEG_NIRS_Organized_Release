@@ -1,0 +1,85 @@
+{
+  "status": "ok",
+  "session": "/workspace/scratch/5d9519e91011/public_data/2026.03.10.17.02.53_N16.mat",
+  "hybrid": {
+    "confusion": [
+      [
+        505,
+        117,
+        156
+      ],
+      [
+        140,
+        158,
+        146
+      ],
+      [
+        130,
+        116,
+        85
+      ]
+    ],
+    "f1": {
+      "1": 0.6503541532517708,
+      "2": 0.3784431137724551,
+      "3": 0.23676880222841226
+    },
+    "min_f1": 0.23676880222841226,
+    "macro_recall": 0.4251144059103722,
+    "n_windows": 1553
+  },
+  "nirs_only": {
+    "confusion": [
+      [
+        260,
+        70,
+        83
+      ],
+      [
+        342,
+        192,
+        207
+      ],
+      [
+        173,
+        129,
+        97
+      ]
+    ],
+    "f1": {
+      "1": 0.4377104377104377,
+      "2": 0.3392226148409894,
+      "3": 0.24681933842239187
+    },
+    "min_f1": 0.24681933842239187,
+    "macro_recall": 0.35905948638338897,
+    "n_windows": 1553
+  },
+  "timings": {
+    "predict_mean_s": 0.01534049001931745,
+    "predict_max_s": 0.02911,
+    "fit_mean_s": 0.944204,
+    "fit_max_s": 1.034772,
+    "n_predict": 1553,
+    "n_fit": 7,
+    "penalty_predict": 0,
+    "penalty_fit": 0,
+    "penalty_total": 0
+  },
+  "score": {
+    "base_quality": 26.9596,
+    "nirs_bonus": {
+      "present": true,
+      "points": 8.7023,
+      "min_f1": 0.24681933842239187,
+      "macro_recall": 0.35905948638338897,
+      "detail": "valid NIRS-only matrix"
+    },
+    "engineering": 0.0,
+    "penalties": 0,
+    "total": 35.6619,
+    "max_possible": 130.0
+  },
+  "expected_windows": 1553,
+  "windows_match": true
+}

@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+data_all/
+tmp/
+results/my_*/
+results/user_*/
+results/quick_test/
+results/docker_run/
+rebuilt_public/
+rebuilt_holdout/
+*.part

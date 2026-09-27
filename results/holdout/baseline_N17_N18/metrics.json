@@ -1,0 +1,37 @@
+{
+  "status": "ok",
+  "aggregation": "unweighted_mean_over_sessions",
+  "n_sessions": 8,
+  "hybrid": {
+    "min_f1": 0.40504520806205657,
+    "macro_recall": 0.5754125109207481,
+    "n_windows": 12385,
+    "aggregation": "unweighted_mean_over_sessions",
+    "n_sessions": 8
+  },
+  "nirs_only": {
+    "min_f1": 0.2446807541855187,
+    "macro_recall": 0.41974323410380704,
+    "n_windows": 12385
+  },
+  "timings": {
+    "penalty_predict": 0,
+    "penalty_fit": 0,
+    "penalty_total": 0
+  },
+  "score": {
+    "base_quality": 41.5651,
+    "nirs_bonus": {
+      "present": true,
+      "points": 8.6702,
+      "min_f1": 0.2446807541855187,
+      "macro_recall": 0.41974323410380704,
+      "detail": "valid NIRS-only matrix"
+    },
+    "engineering": 0.0,
+    "penalties": 0,
+    "total": 50.2353,
+    "max_possible": 130.0
+  },
+  "note": "G matrices are not summed; EEG-only is not included in the score; see per-session metrics.json"
+}

@@ -1,0 +1,46 @@
+{
+  "version": 3,
+  "classifier": "random_forest_multisession_cache_causal_sosfilt",
+  "n_training_sessions": 50,
+  "subjects": [
+    "N01",
+    "N02",
+    "N03",
+    "N06",
+    "N09",
+    "N10",
+    "N11",
+    "N13",
+    "N14",
+    "N15",
+    "N16",
+    "N17",
+    "N18"
+  ],
+  "cache_samples": 1200,
+  "cache_class_counts": {
+    "1": 400,
+    "2": 400,
+    "3": 400
+  },
+  "eeg_feature_dim": 109,
+  "nirs_feature_dim": 108,
+  "hybrid_feature_dim": 217,
+  "filter": {
+    "type": "Butterworth bandpass + scipy.signal.sosfilt",
+    "low_hz": 1.0,
+    "high_hz": 40.0,
+    "order": 4,
+    "causal": true,
+    "state_persisted_between_push_calls": true
+  },
+  "training": {
+    "stride_sec": 0.5,
+    "cache_per_class": 400,
+    "exclude_subjects": [
+      "N08"
+    ],
+    "exclude_sessions": [],
+    "seed": 2026
+  }
+}

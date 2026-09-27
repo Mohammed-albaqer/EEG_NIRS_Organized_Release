@@ -1,0 +1,27 @@
+--- experiments/classifier_hard_agreement.py
++++ solution/classifier.py
+@@ -317,12 +317,19 @@
+             y_nirs = int(self.model_nirs.predict(nirs_feat.reshape(1, -1))[0]) if self.model_nirs is not None else fallback
+ 
+         if self.has_nirs and self.model_hybrid is not None:
+-            y = int(self.model_hybrid.predict(hybrid_feat.reshape(1, -1))[0])
++            def aligned(model: RandomForestClassifier, features: np.ndarray) -> np.ndarray:
++                result = np.zeros(3, dtype=np.float64)
++                probabilities = model.predict_proba(features.reshape(1, -1))[0]
++                for cls, probability in zip(model.classes_, probabilities):
++                    if int(cls) in (1, 2, 3):
++                        result[int(cls) - 1] = probability
++                return result
++
++            ph = aligned(self.model_hybrid, hybrid_feat)
++            pe = aligned(self.model_eeg, eeg_feat)
++            pn = aligned(self.model_nirs, nirs_feat)
++            y = int(np.argmax(0.50 * ph + 0.35 * pe + 0.15 * pn) + 1)
+         else:
+-            y = y_eeg
+-
+-        # Keep the retained version's sensor-agreement rule.
+-        if y_nirs is not None and y_eeg == y_nirs:
+             y = y_eeg
+ 
+         if y not in (1, 2, 3):

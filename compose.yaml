@@ -1,0 +1,16 @@
+services:
+  eeg-nirs-evaluator:
+    build: .
+    image: eeg-nirs-competition:final
+    volumes:
+      - ./data_all:/data:ro
+      - ./results/docker_run:/out
+    command:
+      - python
+      - solution/run.py
+      - --input
+      - /data/2025.12.01.16.04.01_N01.mat
+      - --output-dir
+      - /out
+      - --artifacts
+      - solution/artifacts

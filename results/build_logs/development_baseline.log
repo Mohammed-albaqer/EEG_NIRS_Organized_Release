@@ -1,0 +1,183 @@
+Session: 2026.02.24.16.07.40_N15.mat
+Windows:   1552
+fit:    7 blocks
+Written: results/holdout/development_baseline/2026.02.24.16.07.40_N15/predictions.csv, results/holdout/development_baseline/2026.02.24.16.07.40_N15/timings.csv
+{
+  "base_quality": 28.815,
+  "nirs_bonus": {
+    "present": true,
+    "points": 9.3289,
+    "min_f1": 0.28859060402684567,
+    "macro_recall": 0.33109241602408707,
+    "detail": "valid NIRS-only matrix"
+  },
+  "engineering": 0.0,
+  "penalties": 0,
+  "total": 38.1439,
+  "max_possible": 130.0
+}
+Written: results/holdout/development_baseline/2026.02.24.16.07.40_N15/metrics.json
+Session: 2026.02.27.13.11.59_N15.mat
+Windows:   1546
+fit:    7 blocks
+Written: results/holdout/development_baseline/2026.02.27.13.11.59_N15/predictions.csv, results/holdout/development_baseline/2026.02.27.13.11.59_N15/timings.csv
+{
+  "base_quality": 34.9453,
+  "nirs_bonus": {
+    "present": true,
+    "points": 10.0437,
+    "min_f1": 0.33624454148471616,
+    "macro_recall": 0.37712105834802273,
+    "detail": "valid NIRS-only matrix"
+  },
+  "engineering": 0.0,
+  "penalties": 0,
+  "total": 44.989,
+  "max_possible": 130.0
+}
+Written: results/holdout/development_baseline/2026.02.27.13.11.59_N15/metrics.json
+Session: 2026.02.27.13.24.42_N15.mat
+Windows:   1553
+fit:    7 blocks
+Written: results/holdout/development_baseline/2026.02.27.13.24.42_N15/predictions.csv, results/holdout/development_baseline/2026.02.27.13.24.42_N15/timings.csv
+{
+  "base_quality": 39.4465,
+  "nirs_bonus": {
+    "present": true,
+    "points": 9.8699,
+    "min_f1": 0.32466181061394384,
+    "macro_recall": 0.4014078714321054,
+    "detail": "valid NIRS-only matrix"
+  },
+  "engineering": 0.0,
+  "penalties": 0,
+  "total": 49.3164,
+  "max_possible": 130.0
+}
+Written: results/holdout/development_baseline/2026.02.27.13.24.42_N15/metrics.json
+Session: 2026.03.04.12.51.22_N15.mat
+Windows:   1552
+fit:    7 blocks
+Written: results/holdout/development_baseline/2026.03.04.12.51.22_N15/predictions.csv, results/holdout/development_baseline/2026.03.04.12.51.22_N15/timings.csv
+{
+  "base_quality": 23.1658,
+  "nirs_bonus": {
+    "present": true,
+    "points": 7.9508,
+    "min_f1": 0.19672131147540983,
+    "macro_recall": 0.3382446563615897,
+    "detail": "valid NIRS-only matrix"
+  },
+  "engineering": 0.0,
+  "penalties": 0,
+  "total": 31.1166,
+  "max_possible": 130.0
+}
+Written: results/holdout/development_baseline/2026.03.04.12.51.22_N15/metrics.json
+Session: 2026.03.10.17.02.53_N16.mat
+Windows:   1553
+fit:    7 blocks
+Written: results/holdout/development_baseline/2026.03.10.17.02.53_N16/predictions.csv, results/holdout/development_baseline/2026.03.10.17.02.53_N16/timings.csv
+{
+  "base_quality": 25.5801,
+  "nirs_bonus": {
+    "present": true,
+    "points": 8.7023,
+    "min_f1": 0.24681933842239187,
+    "macro_recall": 0.35905948638338897,
+    "detail": "valid NIRS-only matrix"
+  },
+  "engineering": 0.0,
+  "penalties": 0,
+  "total": 34.2824,
+  "max_possible": 130.0
+}
+Written: results/holdout/development_baseline/2026.03.10.17.02.53_N16/metrics.json
+Session: 2026.03.11.19.32.02_N16.mat
+Windows:   1546
+fit:    7 blocks
+Written: results/holdout/development_baseline/2026.03.11.19.32.02_N16/predictions.csv, results/holdout/development_baseline/2026.03.11.19.32.02_N16/timings.csv
+{
+  "base_quality": 29.2607,
+  "nirs_bonus": {
+    "present": true,
+    "points": 9.0312,
+    "min_f1": 0.26875,
+    "macro_recall": 0.41805993269590297,
+    "detail": "valid NIRS-only matrix"
+  },
+  "engineering": 0.0,
+  "penalties": 0,
+  "total": 38.2919,
+  "max_possible": 130.0
+}
+Written: results/holdout/development_baseline/2026.03.11.19.32.02_N16/metrics.json
+Session: 2026.03.11.19.45.53_N16.mat
+Windows:   1550
+fit:    7 blocks
+Written: results/holdout/development_baseline/2026.03.11.19.45.53_N16/predictions.csv, results/holdout/development_baseline/2026.03.11.19.45.53_N16/timings.csv
+{
+  "base_quality": 31.7239,
+  "nirs_bonus": {
+    "present": true,
+    "points": 6.1516,
+    "min_f1": 0.07677543186180422,
+    "macro_recall": 0.3427990445492244,
+    "detail": "valid NIRS-only matrix"
+  },
+  "engineering": 0.0,
+  "penalties": 0,
+  "total": 37.8755,
+  "max_possible": 130.0
+}
+Written: results/holdout/development_baseline/2026.03.11.19.45.53_N16/metrics.json
+Session: 2026.03.12.12.31.02_N16.mat
+Windows:   1550
+fit:    7 blocks
+Written: results/holdout/development_baseline/2026.03.12.12.31.02_N16/predictions.csv, results/holdout/development_baseline/2026.03.12.12.31.02_N16/timings.csv
+{
+  "base_quality": 37.6042,
+  "nirs_bonus": {
+    "present": true,
+    "points": 7.4961,
+    "min_f1": 0.1664050235478807,
+    "macro_recall": 0.34588242404971625,
+    "detail": "valid NIRS-only matrix"
+  },
+  "engineering": 0.0,
+  "penalties": 0,
+  "total": 45.1003,
+  "max_possible": 130.0
+}
+Written: results/holdout/development_baseline/2026.03.12.12.31.02_N16/metrics.json
+{
+  "base_quality": 31.3177,
+  "nirs_bonus": {
+    "present": true,
+    "points": 8.5718,
+    "min_f1": 0.23812100767912403,
+    "macro_recall": 0.3642083612305047,
+    "detail": "valid NIRS-only matrix"
+  },
+  "engineering": 0.0,
+  "penalties": 0,
+  "total": 39.8895,
+  "max_possible": 130.0
+}
+Written: results/holdout/development_baseline/metrics.json
+[1/8] 2026.02.24.16.07.40_N15.mat
+[2/8] 2026.02.27.13.11.59_N15.mat
+[3/8] 2026.02.27.13.24.42_N15.mat
+[4/8] 2026.03.04.12.51.22_N15.mat
+[5/8] 2026.03.10.17.02.53_N16.mat
+[6/8] 2026.03.11.19.32.02_N16.mat
+[7/8] 2026.03.11.19.45.53_N16.mat
+[8/8] 2026.03.12.12.31.02_N16.mat
+
+=== SUMMARY ===
+sessions:      8
+mean accuracy: 0.4557 (diagnostic only)
+mean min-F1:   0.3062
+macro-recall:  0.4314
+score:         39.8895
+written:       /workspace/scratch/5d9519e91011/EEG_NIRS_Competition_Final/results/holdout/development_baseline

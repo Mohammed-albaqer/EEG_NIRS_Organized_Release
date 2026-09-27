@@ -1,0 +1,70 @@
+[1/56] 2025.12.01.16.04.01_N01.mat: 904 windows
+[2/56] 2025.12.04.13.29.33_N01.mat: 904 windows
+[3/56] 2025.12.08.14.19.05_N02.mat: 903 windows
+[4/56] 2025.12.09.12.52.43_N01.mat: 903 windows
+[5/56] 2025.12.11.12.13.46_N03.mat: 904 windows
+[6/56] 2025.12.11.15.27.59_N02.mat: 905 windows
+[7/56] 2025.12.11.15.43.58_N02.mat: 905 windows
+[8/56] 2025.12.15.12.52.57_N03.mat: 903 windows
+[9/56] 2025.12.15.13.16.37_N03.mat: 905 windows
+[10/56] SKIP cache: 2025.12.18.12.09.22_N03.mat, no compatible NIRS
+[11/56] SKIP cache: 2025.12.18.15.02.14_N02.mat, no compatible NIRS
+[12/56] 2026.01.14.13.55.34_N06.mat: 904 windows
+[13/56] 2026.01.15.14.53.23_N06.mat: 904 windows
+[14/56] 2026.01.15.15.05.38_N06.mat: 904 windows
+[15/56] 2026.01.16.13.40.51_N06.mat: 903 windows
+[16/56] 2026.01.20.13.28.05_N08.mat: 904 windows
+[17/56] 2026.01.21.13.29.25_N09.mat: 904 windows
+[18/56] 2026.01.21.15.25.36_N10.mat: 905 windows
+[19/56] 2026.01.22.14.36.16_N09.mat: 904 windows
+[20/56] 2026.01.22.14.47.19_N09.mat: 904 windows
+[21/56] 2026.01.26.14.45.18_N09.mat: 902 windows
+[22/56] 2026.01.26.16.37.52_N08.mat: 903 windows
+[23/56] 2026.01.26.16.49.30_N08.mat: 903 windows
+[24/56] 2026.01.28.13.14.05_N11.mat: 904 windows
+[25/56] 2026.02.02.13.15.04_N11.mat: 905 windows
+[26/56] 2026.02.02.13.27.56_N11.mat: 905 windows
+[27/56] 2026.02.09.13.04.04_N10.mat: 903 windows
+[28/56] 2026.02.09.13.17.04_N10.mat: 904 windows
+[29/56] 2026.02.12.12.14.18_N11.mat: 904 windows
+[30/56] 2026.02.12.14.14.43_N13.mat: 902 windows
+[31/56] 2026.02.16.13.43.38_N10.mat: 905 windows
+[32/56] 2026.02.18.13.10.04_N13.mat: 904 windows
+[33/56] 2026.02.18.13.23.07_N13.mat: 902 windows
+[34/56] 2026.02.18.14.51.46_N08.mat: 904 windows
+[35/56] 2026.02.19.13.23.35_N13.mat: 904 windows
+[36/56] 2026.02.20.17.10.45_N14.mat: 903 windows
+[37/56] 2026.02.20.17.25.24_N14.mat: 903 windows
+[38/56] 2026.02.24.16.07.40_N15.mat: 905 windows
+[39/56] 2026.02.27.13.11.59_N15.mat: 902 windows
+[40/56] 2026.02.27.13.24.42_N15.mat: 906 windows
+[41/56] 2026.03.04.12.51.22_N15.mat: 905 windows
+[42/56] 2026.03.10.17.02.53_N16.mat: 906 windows
+[43/56] 2026.03.11.19.32.02_N16.mat: 902 windows
+[44/56] 2026.03.11.19.45.53_N16.mat: 904 windows
+[45/56] 2026.03.12.12.31.02_N16.mat: 904 windows
+[46/56] 2026.03.20.14.54.22_N14.mat: 902 windows
+[47/56] 2026.03.20.15.16.33_N14.mat: 905 windows
+[48/56] 2026.03.23.14.24.35_N17.mat: 904 windows
+[49/56] 2026.03.24.18.00.22_N18.mat: 903 windows
+[50/56] 2026.03.25.12.49.29_N18.mat: 901 windows
+[51/56] 2026.03.25.13.04.32_N18.mat: 902 windows
+[52/56] 2026.03.25.14.35.20_N17.mat: 906 windows
+[53/56] 2026.03.25.14.46.04_N17.mat: 903 windows
+[54/56] 2026.03.26.12.37.48_N18.mat: 905 windows
+[55/56] 2026.03.26.14.21.39_N17.mat: 902 windows
+[56/56] 2026.03.27.16.34.41_N14.mat: 903 windows
+FOLD N01: 51 other-subject sessions, 1200 windows
+FOLD N02: 51 other-subject sessions, 1200 windows
+FOLD N03: 51 other-subject sessions, 1200 windows
+FOLD N06: 50 other-subject sessions, 1200 windows
+FOLD N08: 50 other-subject sessions, 1200 windows
+FOLD N09: 50 other-subject sessions, 1200 windows
+FOLD N10: 50 other-subject sessions, 1200 windows
+FOLD N11: 50 other-subject sessions, 1200 windows
+FOLD N13: 50 other-subject sessions, 1200 windows
+FOLD N14: 49 other-subject sessions, 1200 windows
+FOLD N15: 50 other-subject sessions, 1200 windows
+FOLD N16: 50 other-subject sessions, 1200 windows
+FOLD N17: 50 other-subject sessions, 1200 windows
+FOLD N18: 50 other-subject sessions, 1200 windows
